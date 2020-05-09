@@ -9,7 +9,8 @@ In order to do that, I used various machine learning classifier models to compar
 * LogisticRegression        
 * MultinomialNB             
 * RandomForestClassifier  
-#Evaluation  
+
+# Evaluation  
 ```
 naive bayes classifier accuracy:  0.45121951219512196
 LinearSVC classifier accuracy:  0.4024390243902439
@@ -51,5 +52,5 @@ weighted avg       0.40      0.40      0.39        82
 ```
 Though the result is not up to the mark, It is just a practice test further I will improve the accuarcy.
 The ROC curve and confusion matrix diagram also prepared for visualization.
-#Dataset
+# Dataset
 [Datasert link](https://archive.ics.uci.edu/ml/datasets/Paper+Reviews)

@@ -4,11 +4,11 @@ This is a practice file for sentiment analysis using machine learning models.
 This work contains sentiment analysis on spanish dataset.The data set consists of paper reviews sent to an international conference mostly in Spanish (some are in English).
 In order to do that, I used various machine learning classifier models to compare result. For getting the best output sone sorts of data cleaning part were also done as there were some missing values as well as some punctuations.
 #ML classifier list
-*KNeighborsClassifier      
-*LinearSVC                 
-*LogisticRegression        
-*MultinomialNB             
-*RandomForestClassifier  
+* KNeighborsClassifier      
+* LinearSVC                 
+* LogisticRegression        
+* MultinomialNB             
+* RandomForestClassifier  
 #Evaluation  
 ```
 naive bayes classifier accuracy:  0.45121951219512196
